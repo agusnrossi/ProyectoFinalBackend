@@ -1,0 +1,58 @@
+[
+   {
+      "products": [],
+      "timestamp": "1661384686017",
+      "owner": "ccb6eddf-e10c-42a9-8bae-886c48d0cb32",
+      "createdAt": 1661384686020,
+      "updatedAt": 1661384686020,
+      "_id": "b5d1eb84-852b-462c-9aad-6e88867e3cd8"
+   },
+   {
+      "products": [],
+      "timestamp": "1661386305378",
+      "owner": "adf581c3-d537-4911-9fbf-0e5c8d7997eb",
+      "createdAt": 1661386305379,
+      "updatedAt": 1661386305379,
+      "_id": "fea3c931-af49-4697-8bbf-5bc09b4ededb"
+   },
+   {
+      "products": [],
+      "timestamp": "1661387733710",
+      "owner": "359938c7-0bb3-42fa-82d8-b53be7c95f4c",
+      "createdAt": 1661387733712,
+      "updatedAt": 1661387733712,
+      "_id": "080de3b9-2c50-4057-b104-21af754a6e05"
+   },
+   {
+      "products": [],
+      "timestamp": "1661387744376",
+      "owner": "bdd6d502-b6d9-477e-8d27-ae0c32bf50ea",
+      "createdAt": 1661387744377,
+      "updatedAt": 1661387744377,
+      "_id": "26c2deab-243c-4051-ba18-607c2d5b4782"
+   },
+   {
+      "products": [],
+      "timestamp": "1661387763603",
+      "owner": "676b2cc4-d40c-4c7f-8329-9bd7a7c088d7",
+      "createdAt": 1661387763603,
+      "updatedAt": 1661387763603,
+      "_id": "1f9d1ade-e38e-4d88-b823-93d5d57fb728"
+   },
+   {
+      "products": [],
+      "timestamp": "1661387764079",
+      "owner": "dae66f69-dc65-470f-8a6e-2a3e44fb1b4a",
+      "createdAt": 1661387764079,
+      "updatedAt": 1661387764079,
+      "_id": "240294a9-c01a-4b3b-8a16-9453e1cce9fe"
+   },
+   {
+      "products": [],
+      "timestamp": "1661387794763",
+      "owner": "c2ff59f7-a5ba-4653-8613-63119c50d213",
+      "createdAt": 1661387794764,
+      "updatedAt": 1661387794764,
+      "_id": "b75ddff5-d7d7-4f17-9e77-324e5d27c918"
+   }
+]

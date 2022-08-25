@@ -1,0 +1,16 @@
+[
+   {
+      "author": "chatBot",
+      "text": "Bienvenido al Chat: agustin!",
+      "type": "system",
+      "createdAt": 1661385228662,
+      "_id": "15636d85-4235-420d-b16a-e82fec8ebd35"
+   },
+   {
+      "author": "agustin",
+      "text": "hola\n",
+      "type": "user",
+      "createdAt": 1661385228662,
+      "_id": "0a4e44df-6356-406b-a930-e93f681becc4"
+   }
+]

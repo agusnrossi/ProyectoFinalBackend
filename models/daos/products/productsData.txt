@@ -1,0 +1,52 @@
+[
+   {
+      "id": 1,
+      "code": 1,
+      "timestamp": 1646618974209,
+      "name": "Asics Nimbus 24",
+      "desc": "Corre sin esfuezo",
+      "price": 42.500,
+      "image": "https://asics.vteximg.com.br/arquivos/ids/175458-1000-1000/1011B359_003_1.jpg?v=637904004073800000",
+      "stock": 5
+   },
+   {
+      "id": 2,
+      "code": 2,
+      "timestamp": 1646618983235,
+      "name": "New Balance Fresh Foam 1080",
+      "desc": "All the comfort, all the miles",
+      "price": 35.000,
+      "image": "https://www.newbalance.com.ar/media/catalog/product/cache/4/image/700x538.46153846154/9df78eab33525d08d6e5fb8d27136e95/z/a/zapatillas-hombre-new-balance-fresh-foam-1080v11-running-m1080c11-1-min.jpg",
+      "stock": 8
+   },
+   {
+      "id": 3,
+      "code": 3,
+      "timestamp": 1646618994386,
+      "name": "Saucony Triumph 19",
+      "desc": "Una carrera de ensueño",
+      "price": 34.620,
+      "image": "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/498/432/products/s20678-20_1-41c724c04a491103bd16444357111194-1024-1024.png",
+      "stock": 5
+   },
+   {
+      "id": 4,
+      "code": 4,
+      "timestamp": 1646619011618,
+      "name": "Saucony Ride 14",
+      "desc": "¿Estas listo para el viaje?",
+      "price": 27.300,
+      "image": "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/498/432/products/s20650-55_11-8a3cad296cb8fbc7a316371753285290-1024-1024.png",
+      "stock": 3
+   },
+   {
+      "id": 5,
+      "code": 5,
+      "timestamp": 1646619021562,
+      "name": "Asics Gel Cumulus 22",
+      "desc": "Alcanza tu maxima velocidad",
+      "price": 33.000,
+      "image": "https://asics.vteximg.com.br/arquivos/ids/157339-1000-1000/1012A741_020_1.jpg?v=637584374557300000",
+      "stock": 2
+   }
+]
